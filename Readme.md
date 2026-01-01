@@ -38,7 +38,7 @@ This project explores the impact of Artificial Intelligence (AI) on contemporary
 
 ## Tools & Technologies
 - **Language:** Python 3.11
-- **Libraries:** Pandas, NumPy, scikit-learn, statsmodels, Matplotlib, Seaborn.
+- **Libraries:** Pandas, NumPy, scikit-learn, statsmodels, Matplotlib
 - **Other:** MS Excel, MS Word.
 
 ## Repository Structure
